@@ -1,8 +1,7 @@
 
 # MyFramework
 
-**MyFramework** es un micro framework web para backend en Python. Está diseñado para construir APIs simples que devuelven respuestas en formato JSON. Es ideal para proyectos ligeros donde se desea rapidez y simplicidad.
-
+**MyFramework** es un micro framework web para backend en Python. Está diseñado para construir APIs simples que devuelven respuestas en formato JSON.
 ---
 
 ## Instalación local
