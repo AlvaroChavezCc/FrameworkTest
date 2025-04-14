@@ -1,0 +1,2 @@
+[console_scripts]
+myframework-scaffold = myframework.scripts.scaffold:main

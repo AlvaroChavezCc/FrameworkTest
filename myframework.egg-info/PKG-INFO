@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: myframework
+Version: 0.1
+Summary: Micro framework web en Python
+Author: Tu Nombre
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

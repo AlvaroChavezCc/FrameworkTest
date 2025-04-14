@@ -1,0 +1,13 @@
+pyproject.toml
+setup.cfg
+app/__init__.py
+app/routes.py
+myframework/__init__.py
+myframework/core.py
+myframework.egg-info/PKG-INFO
+myframework.egg-info/SOURCES.txt
+myframework.egg-info/dependency_links.txt
+myframework.egg-info/entry_points.txt
+myframework.egg-info/top_level.txt
+myframework/scripts/__init__.py
+myframework/scripts/scaffold.py
